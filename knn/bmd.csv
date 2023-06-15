@@ -1,0 +1,1285 @@
+user_id,movie_id,title,genre,rating
+2,tt0118578,Albela,Romance,2
+3,tt0169102,Lagaan: Once Upon a Time in India,Adventure | Drama | Musical,6
+4,tt0187279,Meri Biwi Ka Jawab Nahin,Action | Comedy,1
+5,tt0222024,Hum Tumhare Hain Sanam,Drama | Romance,4
+6,tt0227194,One 2 Ka 4,Action | Comedy | Drama,1
+7,tt0238936,Devdas,Musical | Romance,6
+8,tt0247911,Aap Mujhe Achche Lagne Lage,Action | Drama | Romance,2
+9,tt0248126,Kabhi Khushi Kabhie Gham...,Drama | Musical | Romance,8
+10,tt0248216,Na Tum Jaano Na Hum,Comedy | Drama | Musical,1
+11,tt0248617,Yaadein...,Musical | Drama | Romance,2
+12,tt0255713,Zubeidaa,Adventure | Biography | Drama,1
+13,tt0256692,Chori Chori Chupke Chupke,Drama | Musical | Romance,5
+14,tt0265148,Main Prem Ki Diwani Hoon,Musical | Drama | Romance,2
+15,tt0265452,Officer,Action | Crime | Drama,2
+16,tt0267363,Chandni Bar,Crime | Drama,5
+17,tt0271604,Kuch Khatti Kuch Meethi,Drama | Family,2
+18,tt0272543,Censor,Musical | Romance,1
+19,tt0272607,Farz,Action,4
+20,tt0272735,Mujhe Meri Biwi Se Bachaao,Comedy | Musical | Family,1
+21,tt0272736,Mujhse Dosti Karoge!,Musical | Romance | Drama,2
+22,tt0273164,Daman: A Victim of Marital Violence,Drama | Family,1
+23,tt0273406,Aashiq,Action | Comedy | Drama,3
+24,tt0273535,Dil Ne Phir Yaad Kiya,Drama | Musical | Romance,1
+25,tt0274019,Pyaar Diwana Hota Hai,Romance,1
+26,tt0275381,Grahan,Drama | Romance,1
+27,tt0277981,Rahul,Drama,1
+28,tt0278291,Ajnabee,Crime | Mystery | Thriller,4
+29,tt0278522,Jodi No.1,Comedy,6
+30,tt0279021,Chhupa Rustam: A Musical Thriller,Crime | Drama | Romance,3
+31,tt0280720,The Guru,Comedy | Fantasy | Music,1
+32,tt0281102,Pyaar Tune Kya Kiya...,Thriller,3
+33,tt0283911,Bas Itna Sa Khwaab Hai...,Romance,1
+34,tt0284137,Gadar: Ek Prem Katha,Action | Drama | Romance,9
+35,tt0284328,Mujhe Kucch Kehna Hai,Romance,7
+36,tt0285319,Paagalpan,Romance,1
+37,tt0287537,Love Ke Liye Kuch Bhi Karega,Comedy | Crime | Romance,2
+38,tt0288273,Uljhan,Drama,1
+39,tt0289845,Aks,Thriller | Mystery,2
+40,tt0290326,Tum Bin...: Love Will Find a Way,Drama | Romance,4
+41,tt0291376,Nayak: The Real Hero,Drama | Action,2
+42,tt0292490,Dil Chahta Hai,Comedy | Drama,4
+43,tt0292552,Hum Ho Gaye Aap Ke,Musical,1
+44,tt0292740,Yeh Raaste Hain Pyaar Ke,Romance |Drama,2
+45,tt0293342,Lajja,Drama | Musical | Crime,2
+46,tt0294662,Kaante,Action | Crime | Drama,3
+47,tt0295603,Shirdi Sai Baba,Drama | Mystery,1
+48,tt0296535,Bollywood Bound,Documentary,1
+49,tt0296574,Company,Action | Crime | Thriller,4
+50,tt0297983,Ittefaq,Action | Drama | Thriller,1
+51,tt0298606,Yeh Teraa Ghar Yeh Meraa Ghar,Comedy | Drama,2
+52,tt0298607,Yeh Zindagi Ka Safar,Drama,1
+53,tt0299108,Rehnaa Hai Terre Dil Mein,Musical,2
+54,tt0300028,Indian,Action | Crime | Drama,6
+55,tt0301179,Deewaanapan,Romance |Drama,2
+56,tt0301240,Moksha: Salvation,Drama | Thriller,1
+57,tt0301250,Tera Mera Saath Rahen,Drama,1
+58,tt0302524,Ehsaas: The Feeling,Drama,1
+59,tt0303187,Veer Savarkar,Biography | Drama,1
+60,tt0305173,Aamdani Atthanni Kharcha Rupaiya,Comedy,3
+61,tt0305455,Pitaah,Action | Drama,2
+62,tt0306434,Aankhen,Comedy | Thriller | Crime,4
+63,tt0306840,Koi Mere Dil Se Poochhe,Musical | Romance | Thriller,2
+64,tt0306855,Style,Musical | Comedy,5
+65,tt0307116,Maa Tujhhe Salaam,Action | Drama,3
+66,tt0307682,Yeh Dil Aashiqanaa,Action | Romance,4
+67,tt0307866,Filhaal...,Drama,1
+68,tt0308347,Haan Maine Bhi Pyaar Kiya,Musical | Romance,2
+69,tt0309087,Yeh Mohabbat Hai,Action | Romance,1
+70,tt0310254,Tumko Na Bhool Paayenge,Action | Drama | Mystery,2
+71,tt0311411,Kranti,Drama,2
+72,tt0312664,Escape from Taliban,Drama | Thriller | War,1
+73,tt0312883,Kya Yehi Pyaar Hai,Comedy | Musical | Romance,4
+74,tt0313395,Kitne Door... Kitne Paas,Comedy | Romance,1
+75,tt0313743,Vadh,Mystery | Thriller,1
+76,tt0313844,16-Dec,Action | Drama | Mystery,4
+77,tt0314006,Dum,Crime,2
+78,tt0314008,Durga,Action |Crime,1
+79,tt0314186,Humko Tumse Pyaar Hai,Romance | Thriller,1
+80,tt0315632,Road,Thriller,3
+81,tt0315767,Angaar: The Fire,Action,1
+82,tt0315777,Ansh: The Deadly Part,Musical | Action,1
+83,tt0316154,Lal Salaam,Musical | Action | Drama,1
+84,tt0316911,Yeh Kaisi Mohabbat,Musical | Drama | Romance,1
+85,tt0317811,Kasam,Adventure | Drama | Crime,2
+86,tt0319020,Awara Paagal Deewana,Action | Comedy | Crime,4
+87,tt0319736,The Legend of Bhagat Singh,Biography | Drama | History,1
+88,tt0321067,Ab Ke Baras,Adventure | Fantasy | Thriller,2
+89,tt0322653,Mere Yaar Ki Shaadi Hai,Comedy | Drama | Musical,5
+90,tt0323013,Lakshya,War | Drama | Romance,2
+91,tt0324951,23rd March 1931: Shaheed,Biography | Drama | History,1
+92,tt0325041,Badhaai Ho Badhaai,Comedy | Drama | Musical,1
+93,tt0326576,Humraaz,Action | Musical | Mystery,4
+94,tt0326600,Maine Dil Tujhko Diya,Romance | Action | Drama,2
+95,tt0326805,Chori Chori,Comedy | Romance | Musical,1
+96,tt0326983,Jaani Dushman: Ek Anokhi Kahani,Action | Fantasy | Horror,2
+97,tt0327004,Kuch Tum Kaho Kuch Hum Kahein,Action | Drama | Romance,1
+98,tt0327005,Kyaa Dil Ne Kahaa,Family | Romance,2
+99,tt0327071,Om Jai Jagadish,Drama | Musical,1
+100,tt0328503,Taj Mahal: An Eternal Love Story,Drama | Musical | Romance,1
+101,tt0328671,Yeh Hai Jalwa,Comedy | Drama | Romance,2
+102,tt0328729,Dil Maange More!!!,Romance,2
+103,tt0328998,Dil Hai Tumhaara,Drama | Family | Romance,3
+104,tt0329620,Soch,Thriller,1
+105,tt0330082,Boom,Action | Crime | Mystery,2
+106,tt0330217,Dil Ka Rishta,Romance,2
+107,tt0330783,Pran Jaaye Par Shaan Na Jaaye,Drama | Comedy,1
+108,tt0330843,Saathiya,Drama | Romance,5
+109,tt0331216,Chor Machaaye Shor,Action | Comedy | Crime,2
+110,tt0331256,Gunaah,Crime | Drama,2
+111,tt0331421,Akhiyon Se Goli Maare,Comedy,2
+112,tt0331453,Chhal,Action | Thriller | Drama,1
+113,tt0331479,Ek Chhotisi Love Story,Comedy | Drama | Fantasy,6
+114,tt0331639,Shakthi: The Power,Action | Drama,2
+115,tt0331851,Armaan,Drama | Family | Romance,2
+116,tt0332766,Sur: The Melody of Life,Drama | Musical,1
+117,tt0335044,Dil Vil Pyar Vyar,Romance,2
+118,tt0335592,Pyaasa,Romance |Drama |Musical,1
+119,tt0337578,Baghban,Drama | Romance,6
+120,tt0337633,Hathyar: Face to Face with Reality,Action | Thriller | Crime,2
+121,tt0337652,Jeena Sirf Merre Liye,Romance,2
+122,tt0337971,Deewangee,Crime | Thriller | Drama,3
+123,tt0337998,Ek Hindustani,Action,1
+124,tt0338477,Talaash: The Hunt Begins...,Action | Adventure | Crime,2
+125,tt0338566,Yeh Kya Ho Raha Hai?,Comedy | Romance,2
+126,tt0338721,Annarth,Action | Thriller,1
+127,tt0338959,Ek Se Badhkar Ek,Comedy | Thriller,1
+128,tt0339878,Waah! Tera Kya Kehna,Comedy,1
+129,tt0340178,Jaal: The Trap,Action | Musical | Drama,1
+130,tt0340464,Zindagi Khoobsoorat Hai,Drama | Family,1
+131,tt0341266,Bhoot,Horror | Thriller,6
+132,tt0341458,Maseeha,Action | Crime | Drama,1
+133,tt0341549,Rishtey,Family,2
+134,tt0341562,Satta,Crime | Drama,2
+135,tt0342624,Karz: The Burden of Truth,Action,2
+136,tt0345043,Chura Liyaa Hai Tumne,Action | Drama | Mystery,1
+137,tt0345102,Danger,Crime | Drama | Thriller,2
+138,tt0345594,Love at Times Square,Drama,1
+139,tt0346457,The Rising: Ballad of Mangal Pandey,Biography | Drama | History,2
+140,tt0346507,Andaaz,Drama | Musical | Romance,6
+141,tt0346548,Avgat,Action | Crime | Drama,1
+142,tt0346723,Chalte Chalte,Drama | Romance,6
+143,tt0347167,The Hero: Love Story of a Spy,Action | Adventure | Drama,3
+144,tt0347278,Jhankaar Beats,Comedy | Musical | Romance,2
+145,tt0347304,Kal Ho Naa Ho,Comedy | Drama | Romance,6
+146,tt0347332,Khakee,Action | Drama,4
+147,tt0347416,LOC: Kargil,Drama | War,2
+148,tt0347473,Main Hoon Na,Action | Comedy | Romance,6
+149,tt0347779,Pinjar,Drama,1
+150,tt0348172,Tehzeeb,Drama,1
+151,tt0348190,Tere Liye,Drama | Family | Musical,1
+152,tt0348258,Tujhe Meri Kasam,Romance,6
+153,tt0348521,Aapko Pehle Bhi Kahin Dekha Hai,Action | Comedy | Drama,1
+154,tt0348656,Khushi,Action | Drama | Romance,2
+155,tt0348662,Kucch To Hai,Drama | Horror | Mystery,2
+156,tt0348824,Chalo Ishq Ladaaye,Comedy | Romance,1
+157,tt0348843,Jism,Drama | Romance | Thriller,6
+158,tt0349058,88 Antop Hill,Thriller,1
+159,tt0349115,Baaz: A Bird in Danger,Thriller,1
+160,tt0349333,Darna Mana Hai,Horror | Adventure,3
+161,tt0349620,Inteqam: The Perfect Game,Action |Romance,1
+162,tt0349679,Khwahish,Drama | Romance | Musical,4
+163,tt0349703,Kyun! Ho Gaya Na...,Comedy | Drama | Romance,2
+164,tt0352314,Ek Hasina Thi,Crime | Romance | Thriller,2
+165,tt0352489,Kash... Aap Hamare Hote,Family | Musical | Romance,1
+166,tt0352830,Sssshhh...,Horror | Mystery,3
+167,tt0353351,Dhund: The Fog,Adventure | Thriller,1
+168,tt0354538,Ek Aur Ek Gyarah: By Hook or by Crook,Action | Comedy | Musical,3
+169,tt0354786,Oops!,Drama,1
+170,tt0356982,Paanch,Crime | Thriller,1
+171,tt0357208,Stumped,Comedy | Drama,1
+172,tt0358613,Om,Action | Romance,1
+173,tt0362204,Supari,Crime | Drama,1
+174,tt0362696,Haasil,Crime | Drama | Romance,1
+175,tt0362771,Ishq Vishk,Comedy | Romance,4
+176,tt0362902,Nayee Padosan,Comedy,3
+177,tt0363409,Aan: Men at Work,Drama | Action,1
+178,tt0363472,Bewafaa,Drama,3
+179,tt0363721,Joggers' Park,Comedy | Romance,2
+180,tt0363833,Mumbai Se Aaya Mera Dost,Romance | Action | Adventure,1
+181,tt0364303,Dev,Drama,2
+182,tt0364604,Plan,Action | Thriller,2
+183,tt0364621,Qayamat: City Under Threat,Action | Romance | Thriller,4
+184,tt0366276,Calcutta Mail,Thriller,1
+185,tt0366630,Janasheen,Musical | Action | Drama,2
+186,tt0366658,Kaise Kahoon Ke... Pyaar Hai,Crime | Romance,1
+187,tt0366761,Meenaxi: Tale of 3 Cities,Romance |Drama,1
+188,tt0366880,Parwana,Romance |Drama,2
+189,tt0366985,Rudraksh,Fantasy | Sci-Fi,1
+190,tt0367110,Swades,Drama,2
+191,tt0368580,Asambhav,Action | Adventure | Drama,1
+192,tt0368683,Desh,Drama,1
+193,tt0368811,Jajantaram Mamantaram,Fantasy | Family,1
+194,tt0369516,Hawa,Horror | Thriller,3
+195,tt0369637,Kuch Naa Kaho,Drama | Romance,2
+196,tt0371735,Hungama,Comedy | Drama | Romance,5
+197,tt0371775,Khel,Action | Thriller,2
+198,tt0371922,Saaya,Action | Drama | Horror,2
+199,tt0373856,Gangaajal,Crime | Drama,4
+200,tt0373970,Khanjar,Action,1
+201,tt0373972,Khullam Khulla Pyaar Karen,Comedy,1
+202,tt0374271,Tere Naam,Romance,5
+203,tt0374660,Footpath,Action | Crime | Drama,2
+204,tt0374848,Main Madhuri Dixit Banna Chahti Hoon!,Drama | Comedy,1
+205,tt0374887,Munnabhai M.B.B.S.,Comedy | Crime,6
+206,tt0375611,Black,Drama,4
+207,tt0375733,Encounter: The Killing,Crime | Drama,1
+208,tt0377126,Basti,Action | Crime,1
+209,tt0377131,Raghu Romeo,Comedy,1
+210,tt0377340,Aetbaar,Drama | Musical | Romance,1
+211,tt0378025,Hawayein,Drama | Romance,1
+212,tt0378072,Hum Tum,Drama | Romance | Comedy,6
+213,tt0378157,Kagaar: Life on the Edge,Crime | Drama,1
+214,tt0379818,I Proud to Be an Indian,Action,1
+215,tt0380337,Ek Din 24 Ghante,Thriller,1
+216,tt0381090,Chupke Se,Comedy | Musical | Romance,1
+217,tt0381408,Market,Drama | Musical,3
+218,tt0382176,Master,Action,1
+219,tt0382188,Mumbai Matinee,Romance | Comedy,1
+220,tt0382383,Yuva,Action | Adventure | Crime,3
+221,tt0382385,Zameen,Action,3
+222,tt0383719,Xcuse Me,Comedy,1
+223,tt0384491,Samay: When Time Strikes,Thriller,1
+224,tt0385351,Yeh Lamhe Judaai Ke,Drama,1
+225,tt0385564,Border Hindustan Ka,Action | Romance,1
+226,tt0385782,Inteha,Romance |Musical |Drama,1
+227,tt0385982,Raja Bhaiya,Comedy | Drama,1
+228,tt0386121,Woh Tera Naam Tha,Romance,1
+229,tt0387164,Dhoop,Drama,1
+230,tt0387325,Jodi Kya Banayi Wah Wah Ramji,Comedy,1
+231,tt0387486,Patth,Drama,1
+232,tt0387678,Waisa Bhi Hota Hai Part II,Comedy | Action | Crime,1
+233,tt0387989,Deewaar: Let's Bring Our Heroes Home,War | Action | Drama,1
+234,tt0388315,Out of Control,Comedy | Drama | Romance,2
+235,tt0389726,Aanch,Drama,1
+236,tt0390532,Taj Mahal: A Monument of Love,Drama | History | Romance,1
+237,tt0390614,Waqt: The Race Against Time,Comedy | Drama | Musical,4
+238,tt0391079,Dil Pardesi Ho Gayaa,Romance | Drama,1
+239,tt0391099,Duplicate Sholay,Comedy,2
+240,tt0391165,Fun2shh... Dudes in the 10th Century,Comedy,2
+241,tt0391187,Ghaav: The Wound,Action | Crime | Drama,1
+242,tt0391274,Kismat,Action | Drama,1
+243,tt0392625,Pratha,Action | Drama | Thriller,1
+244,tt0392950,Ishq Hai Tumse,Romance,1
+245,tt0392951,Mudda: The Issue,Drama,1
+246,tt0396044,Hadh: Life on the Edge of Death,Action | Crime | Drama,1
+247,tt0396057,Hum Pyar Tumhi Se Kar Baithe,Musical | Romance,1
+248,tt0396690,Kisna: The Warrior Poet,Drama | Musical | Romance,1
+249,tt0396782,Paisa Vasool,Comedy,1
+250,tt0397882,Ab Tumhare Hawale Watan Saathiyo,Action | Drama | Romance,1
+251,tt0401532,Jaago,Drama,1
+252,tt0402014,Ab Tak Chhappan,Crime | Drama | Thriller,5
+253,tt0402606,Suno Sasurjee,Action | Comedy | Musical,1
+254,tt0402607,Tum: A Dangerous Obsession,Drama | Romance | Thriller,2
+255,tt0403935,Action Jackson,Action | Drama | Romance,2
+256,tt0405024,Hum Kaun Hai?,Horror | Drama | Mystery,1
+257,tt0405046,Insaaf: The Justice,Drama,1
+258,tt0405266,Raincoat,Drama | Romance,1
+259,tt0405507,Murder,Drama | Thriller,7
+260,tt0405508,Rang De Basanti,Drama,6
+261,tt0406977,Masti,Comedy | Crime | Mystery,6
+262,tt0408837,Hawas,Drama | Romance | Thriller,2
+263,tt0408976,Krishna Cottage,Comedy | Fantasy | Horror,2
+264,tt0409068,Muskaan,Romance,1
+265,tt0409527,Shabd,Drama,1
+266,tt0409724,Bardaasht,Drama,1
+267,tt0410591,Shart: The Challenge,Romance,1
+268,tt0411815,Run,Action | Comedy | Romance,2
+269,tt0414040,Gayab,Fantasy,3
+270,tt0414503,Shaadi Ka Laddoo,Comedy,2
+271,tt0414713,Amu,Drama,1
+272,tt0414714,Girlfriend,Drama,3
+273,tt0415003,Garv: Pride and Honour,Action | Drama,3
+274,tt0415373,WOH,Crime | Drama | Thriller,1
+275,tt0415768,Dus,Action | Crime | Thriller,4
+276,tt0415908,Kaal,Thriller | Adventure | Mystery,4
+277,tt0416120,Police Force: An Inside Story,Action | Crime | Drama,1
+278,tt0416282,Vaastu Shastra,Horror | Mystery,3
+279,tt0416712,Elaan,Action,1
+280,tt0418096,Rakht,Horror | Thriller,1
+281,tt0418362,Mujhse Shaadi Karogi,Comedy | Romance,6
+282,tt0418460,Aitraaz,Drama | Thriller,4
+283,tt0418598,"Chot [Aaj Isko, Kal Tereko]",Musical | Action | Crime,1
+284,tt0418880,Mere Jeevan Saathi,Music | Romance,1
+285,tt0419058,Phir Hera Pheri,Comedy | Crime,7
+286,tt0419468,Baabul,Drama | Family | Romance,2
+287,tt0419828,Hyderabad Blues 2,Drama | Comedy,1
+288,tt0419974,Morning Raga,Drama,1
+289,tt0420123,Revati,Drama,1
+290,tt0420304,Viruddh... Family Comes First,Drama,3
+291,tt0420332,Veer-Zaara,Drama | Musical | Romance,7
+292,tt0421277,Julie,Drama,5
+293,tt0422091,Dhoom,Action | Adventure | Thriller,7
+294,tt0422236,Fida,Adventure | Romance | Thriller,2
+295,tt0422950,Phir Milenge,Drama,1
+296,tt0423087,Rok Sako To Rok Lo,Adventure | Musical | Romance,1
+297,tt0426075,Lakeer - Forbidden Lines,Action | Drama | Romance,1
+298,tt0426864,Aakhri Inteqam,Action,1
+299,tt0429289,Tauba Tauba,Comedy | Drama,4
+300,tt0430030,Dobara,Musical | Drama,1
+301,tt0430328,Madhoshi,Musical | Mystery | Drama,1
+302,tt0430381,Musafir,Action | Crime | Drama,2
+303,tt0430480,Popcorn Khao! Mast Ho Jao,Comedy | Drama | Romance,1
+304,tt0430589,Shaadi Karke Phas Gaya Yaar,Romance,1
+305,tt0430702,Tumsa Nahin Dekha,Musical | Romance,1
+306,tt0432047,Sarkar,Action | Crime | Drama,5
+307,tt0432385,AK 47,Action | Thriller,1
+308,tt0432536,Hatya: The Murder,Action | Crime | Fantasy,1
+309,tt0432637,Krrish,Action | Adventure | Romance,8
+310,tt0433605,Naach,Musical | Drama,1
+311,tt0435259,Padmashree Laloo Prasad Yadav,Comedy,1
+312,tt0435390,Shukriya: Till Death Do Us Apart,Musical | Drama | Family,1
+313,tt0435437,Taarzan: The Wonder Car,Musical | Action | Drama,1
+314,tt0436451,Jo Bole So Nihaal,Action,1
+315,tt0437182,Family: Ties of Blood,Action | Crime | Drama,1
+316,tt0437238,Hulchul,Action | Comedy | Drama,6
+317,tt0437279,Khamoshh... Khauff Ki Raat,Thriller,1
+318,tt0437407,Parineeta,Drama | Musical | Romance,3
+319,tt0438153,Let's Enjoy,Comedy,1
+320,tt0438875,Insan,Drama | War,1
+321,tt0438894,Kisse Pyaar Karo?n,Action | Comedy | Crime,1
+322,tt0438981,Silsiilay,Drama,1
+323,tt0439662,Fanaa,Drama | Musical | Romance,7
+324,tt0439754,Pyaar Mein Twist,Comedy | Drama | Musical,1
+325,tt0439872,Wajahh: A Reason to Kill,Thriller,1
+326,tt0441048,Dhoom:2,Action | Thriller,8
+327,tt0442606,Mulaqaat,Drama | Thriller,1
+328,tt0442764,Dil Jo Bhi Kahey...,Romance,1
+329,tt0442799,Kis Kis Ki Kismat,Comedy,1
+330,tt0442855,Vaada,Romance | Mystery | Drama,2
+331,tt0443208,Rog,Mystery | Romance | Thriller,1
+332,tt0443331,Milenge Milenge,Drama | Romance,2
+333,tt0443594,Naina,Drama | Horror | Mystery,2
+334,tt0443708,Page 3,Drama,5
+335,tt0444767,A Sublime Love Story: Barsaat,Romance,3
+336,tt0444769,Blackmail,Action | Drama | Thriller,1
+337,tt0444781,Deewane Huye Paagal,Comedy | Romance,2
+338,tt0444820,Fareb,Drama | Thriller,1
+339,tt0444840,Humko Deewana Kar Gaye,Romance,2
+340,tt0444849,Karam,Crime | Thriller,2
+341,tt0444874,Main Aisa Hi Hoon,Musical | Drama,1
+342,tt0444913,Tango Charlie,Action | Drama | War,1
+343,tt0444915,Tathastu,Drama,1
+344,tt0445022,Jurm,Thriller,1
+345,tt0445056,Sheesha,Drama | Romance | Thriller,1
+346,tt0447235,Kiss Kis Ko,Musical,1
+347,tt0447890,Chaahat Ek Nasha...,Romance,1
+348,tt0448121,Sins,Drama | Romance,2
+349,tt0448206,Bunty Aur Babli,Adventure | Comedy | Crime,7
+350,tt0449189,Banaras,Musical | Drama,1
+351,tt0449228,Dosti: Friends Forever,Romance,2
+352,tt0449306,Lucky: No Time for Love,Musical | Drama | Romance,3
+353,tt0449389,Shaadi No. 1,Comedy,2
+354,tt0449870,Chehraa,Thriller,1
+355,tt0449982,Hum Dum,Comedy | Romance,1
+356,tt0449994,Jodhaa Akbar,Action | Adventure | Biography,5
+357,tt0449999,Kabhi Alvida Naa Kehna,Drama,5
+358,tt0451631,Apaharan,Action | Crime | Drama,5
+359,tt0451639,Bachke Rehna Re Baba,Comedy,2
+360,tt0451787,Kyon Ki...,Drama | Romance,2
+361,tt0451803,Maine Pyaar Kyun Kiya,Comedy | Drama | Romance,5
+362,tt0451824,My Wife's Murder,Thriller,2
+363,tt0451833,No Entry,Comedy | Drama | Musical,7
+364,tt0451850,Paheli,Fantasy | Romance,3
+365,tt0451919,Socha Na Tha,Romance | Comedy,2
+366,tt0451983,Zeher,Thriller,4
+367,tt0453582,7 1/2 Phere: More Than a Wedding,Comedy | Drama,1
+368,tt0453671,Garam Masala,Comedy,6
+369,tt0453729,Iqbal,Drama,4
+370,tt0453748,Kuchh Meetha Ho Jaye,Comedy | Romance,1
+371,tt0454396,Aryan: Unbreakable,Drama,1
+372,tt0454429,Chingaari,Drama,1
+373,tt0456144,Lage Raho Munna Bhai,Comedy | Drama | Romance,8
+374,tt0456165,Salaam Namaste,Comedy | Drama | Romance,6
+375,tt0456413,Fight Club: Members Only,Action | Comedy,2
+376,tt0456481,Jaan-E-Mann: Let's Fall in Love... Again,Musical | Romance,2
+377,tt0456500,Kyaa Kool Hai Hum,Comedy | Mystery,6
+378,tt0456549,Mr Ya Miss,Comedy,2
+379,tt0456558,Nazar,Thriller,2
+380,tt0457875,Ek Ajnabee,Action | Adventure | Crime,2
+381,tt0457940,Home Delivery: Aapko... Ghar Tak,Comedy | Romance,1
+382,tt0458017,Mixed Doubles,Comedy | Drama,2
+383,tt0458027,Mumbai Godfather,Action | Crime | Drama,1
+384,tt0459133,Shabnam Mausi,Drama,1
+385,tt0459293,"Gandhi, My Father",Biography | Drama | History,1
+386,tt0459423,Kahaani Gudiya Ki...: True Story of a Woman,Drama,1
+387,tt0459475,Naam Gum Jaayega,Thriller,1
+388,tt0459605,Eklavya: The Royal Guard,Action | Drama | Thriller,2
+389,tt0461209,Ek Khiladi Ek Haseena,Comedy | Crime | Thriller,2
+390,tt0461258,Kal: Yesterday and Tomorrow,Drama | Mystery | Thriller,1
+391,tt0461323,Pyare Mohan,Comedy | Drama | Romance,2
+392,tt0461936,Don,Action | Crime | Thriller,6
+393,tt0463279,02-Oct,Crime,1
+394,tt0464160,Chup Chup Ke,Comedy | Drama | Romance,4
+395,tt0466208,Bhairav,Action,1
+396,tt0466367,Chand Sa Roshan Chehra,Romance,1
+397,tt0466398,Ssukh,Comedy | Family | Romance,1
+398,tt0466460,Khosla's Nest,Comedy | Crime | Drama,4
+399,tt0466546,The Film,Drama | Thriller,1
+400,tt0466580,Siskiyaan,Drama | Thriller,1
+401,tt0470398,Kasak,Drama,1
+402,tt0470521,Saawan... The Love Season,Romance,2
+403,tt0470614,Yun Hota Toh Kya Hota: What If...?,Drama,1
+404,tt0470869,Neal 'N' Nikki,Comedy | Musical | Romance,2
+405,tt0471646,Darwaza Bandh Rakho,Comedy | Crime | Drama,1
+406,tt0473310,Ram Gopal Varma's Indian Flames,Action | Adventure | Comedy,1
+407,tt0473367,Jaane Tu... Ya Jaane Na,Comedy | Drama | Romance,7
+408,tt0473567,...Yahaan,Romance,1
+409,tt0475627,Shikhar,Drama | Musical | Romance,2
+410,tt0475645,Vaah! Life Ho Toh Aisi!,Comedy | Family | Musical,2
+411,tt0476527,Bluffmaster!,Comedy | Romance | Thriller,5
+412,tt0476550,God Tussi Great Ho,Comedy | Drama | Romance,2
+413,tt0476729,Aksar,Drama | Romance,5
+414,tt0476762,Big Brother,Action | Crime,1
+415,tt0476805,Malamaal Weekly,Comedy | Drama | Romance,7
+416,tt0476819,Nehlle Pe Dehlla,Comedy | Thriller,1
+417,tt0476848,Ramji Londonwaley,Comedy | Drama | Family,1
+418,tt0476884,Taxi No. 9 2 11: Nau Do Gyarah,Comedy | Drama | Thriller,5
+419,tt0476888,"Tom, Dick, and Harry",Comedy | Romance,4
+420,tt0477252,36 China Town,Comedy | Mystery | Thriller,5
+421,tt0477253,Aashiq Banaya Aapne: Love Takes Over,Drama | Romance | Thriller,3
+422,tt0477574,Bengal Tiger,Action | Crime,1
+423,tt0477857,Sehar,Action | Crime | Drama,2
+424,tt0478868,Koi Mere Dil Mein Hai,Drama,1
+425,tt0479674,Gumnam Qatil,Horror,1
+426,tt0480572,Pyaar Ke Side Effects,Comedy | Drama | Romance,3
+427,tt0482305,Ek Aur Visphot,Crime,1
+428,tt0483029,Kyon?,Crime,1
+429,tt0483239,Bullet: Ek Dhamaka,Action | Drama,1
+430,tt0483282,Marshal,Action,1
+431,tt0484279,Miss India: The Mystery,Mystery,1
+432,tt0485272,Salaam-E-Ishq,Comedy | Drama | Musical,1
+433,tt0485466,Jawani Diwani: A Youthful Joyride,Romance,2
+434,tt0485513,"Main, Meri Patni... Aur Woh!",Comedy | Drama | Romance,1
+435,tt0485522,Umrao Jaan,Drama | Romance,1
+436,tt0485551,Time Pass,Romance,1
+437,tt0486615,London Dreams,Musical,2
+438,tt0487148,Chand Bujh Gaya,Drama | Thriller,1
+439,tt0487149,Chetna: The Excitement,Thriller,1
+440,tt0488287,Darwaza,Horror,1
+441,tt0488316,Mazaa Mazaa,Romance,1
+442,tt0488381,Corporate,Drama,4
+443,tt0488414,Omkara,Action | Crime | Drama,2
+444,tt0488798,Welcome,Comedy | Crime | Drama,7
+445,tt0488836,Hanuman,Animation,5
+446,tt0488840,Koi Aap Sa: But Lovers Have to Be Friends,Comedy | Drama | Romance,1
+447,tt0488906,Zinda,Action | Adventure | Drama,2
+448,tt0488976,C U at 9,Drama | Horror | Mystery,1
+449,tt0489028,Double Cross: Ek Dhoka,Comedy,1
+450,tt0489486,"Good Boy, Bad Boy",Comedy | Musical | Romance,2
+451,tt0489560,Shaadi Se Pehle,Comedy | Musical | Romance,2
+452,tt0490170,Love Story 2050,Action | Adventure | Drama,1
+453,tt0490210,Sarkar Raj,Action | Crime | Drama,3
+454,tt0490417,Gangobai,Action,1
+455,tt0490434,Kaaboo,Action,1
+456,tt0490454,Meri Aashiqui,Romance,1
+457,tt0490475,Raghu More: Bachelor of Hearts,Comedy,1
+458,tt0491724,Prarambh,Drama,1
+459,tt0493417,Fool N Final,Action | Comedy | Romance,2
+460,tt0493437,Apna Sapna Money Money,Comedy | Musical | Romance,5
+461,tt0494290,Vivah,Drama | Family | Musical,8
+462,tt0495022,Ankahee,Drama | Romance | Thriller,1
+463,tt0495032,Gangster,Crime | Drama | Mystery,5
+464,tt0495034,Golmaal: Fun Unlimited,Comedy,6
+465,tt0497606,Dansh,Drama,1
+466,tt0497887,Bhola in Bollywood,Comedy,1
+467,tt0499041,Kalyug,Action | Crime | Drama,5
+468,tt0499375,Guru,Biography | Drama | Musical,6
+469,tt0758053,Saawariya,Drama | Musical | Romance,1
+470,tt0770214,Kabul Express,Action | Comedy | Drama,2
+471,tt0779768,Teesri Aankh: The Hidden Camera,Action | Thriller,1
+472,tt0795434,Namastey London,Comedy | Drama | Romance,5
+473,tt0800956,Life in a Metro,Comedy | Drama | Romance,5
+474,tt0800981,Anthony Kaun Hai?,Comedy | Thriller,1
+475,tt0805184,Bhagam Bhag,Comedy | Mystery | Romance,6
+476,tt0806088,Heyy Babyy,Comedy | Drama,6
+477,tt0807758,Partner,Comedy | Romance,7
+478,tt0808306,Honeymoon Travels Pvt. Ltd.,Comedy | Drama | Romance,4
+479,tt0810058,Aap Ki Khatir,Romance,1
+480,tt0811066,Shootout at Lokhandwala,Action | Crime | Drama,5
+481,tt0813539,Mr Prime Minister,Comedy,1
+482,tt0813540,Naksha,Action | Adventure,1
+483,tt0814014,Apne,Drama | Sport,4
+484,tt0814082,Dil Diya Hai,Drama | Romance | Thriller,1
+485,tt0814158,Ishq Qayamat,Thriller,1
+486,tt0814295,Rocky,Action | Drama | Romance,1
+487,tt0816657,Speed,Action | Drama | Romance,1
+488,tt0819810,Traffic Signal,Drama,4
+489,tt0823261,Zindaggi Rocks,Drama | Romance,1
+490,tt0823451,Dus Kahaniyaan,Adventure | Crime | Drama,1
+491,tt0824316,Dor,Drama,2
+492,tt0824375,Nishabd,Drama,2
+493,tt0826165,Raja Bhai Lagey Raho...,Comedy,1
+494,tt0829200,Humein Tumse Pyar Ho Gaya Chupke Chupke,Drama,1
+495,tt0831816,Shiva,Action | Crime | Drama,1
+496,tt0831840,Ahista Ahista,Drama | Romance,1
+497,tt0832365,Stop!,Comedy | Romance,1
+498,tt0833476,Jhoom Barabar Jhoom,Comedy | Drama | Musical,3
+499,tt0833484,The Killer,Action | Comedy | Crime,2
+500,tt0833499,Mashooka,Romance | Thriller,1
+501,tt0833537,Souten: The Other Woman,Thriller,1
+502,tt0833553,Ta Ra Rum Pum,Comedy | Family | Romance,5
+503,tt0833561,Woh Lamhe,Biography | Drama | Romance,2
+504,tt0839742,Bhopal: A Prayer for Rain,Drama | History,1
+505,tt0845448,Dhamaal,Comedy,5
+506,tt0845492,My Name Is Anthony Gonsalves,Action | Comedy | Crime,1
+507,tt0845494,Nanhe Jaisalmer: A Dream Come True,Comedy | Drama | Family,1
+508,tt0845503,Nigehbaan: The Third Eye,Thriller,1
+509,tt0845529,Risk,Action | Drama | Thriller,1
+510,tt0847180,Loot,Action | Comedy | Crime,1
+511,tt0847758,Pyaar Zindagi Hai,Thriller,1
+512,tt0857381,I See You,Comedy | Drama | Romance,1
+513,tt0860454,MP3: Mera Pehla Pehla Pyaar,Drama | Romance,1
+514,tt0872190,Cash,Action | Drama | Thriller,2
+515,tt0874854,Anjaane: The Unkown,Horror,1
+516,tt0875692,Aggar: Passion Betrayal Terror,Romance | Thriller,1
+517,tt0882969,The Golden Boys,Comedy | Romance,1
+518,tt0885398,Anamika: The Untold Story,Drama | Romance | Thriller,1
+519,tt0886505,Kaafila,Action,1
+520,tt0886539,Luck by Chance,Drama,2
+521,tt0887753,Kya Love Story Hai,Comedy | Drama | Romance,1
+522,tt0892874,Halla Bol,Action | Crime | Drama,2
+523,tt0893585,Detective Naani,Crime | Drama | Family,1
+524,tt0896968,Red: The Dark Side,Drama | Romance | Thriller,2
+525,tt0898943,Raqeeb,Crime | Drama | Mystery,1
+526,tt0920464,Manorama Six Feet Under,Crime | Drama | Mystery,1
+527,tt0926029,99.9 FM,Crime,1
+528,tt0926187,Arjun Devaa,Action | Crime | Musical,1
+529,tt0964516,Fashion,Drama | Romance,4
+530,tt0976026,Cheeni Kum,Comedy | Romance,5
+531,tt0979891,Hattrick,Comedy | Drama | Romance,2
+532,tt0982875,Gauri: The Unborn,Drama | Horror | Thriller,1
+533,tt0985636,Laaga Chunari Mein Daag: Journey of a Woman,Drama,2
+534,tt0986213,Aaja Nachle,Drama | Musical,2
+535,tt0986264,Taare Zameen Par,Drama | Family,7
+536,tt0988655,A Flat,Drama | Horror | Romance,1
+537,tt0989633,Delhii Heights,Drama | Romance,1
+538,tt0991267,30 Days,Horror,1
+539,tt0991346,Bhoothnath,Comedy | Drama | Fantasy,4
+540,tt0995031,Bhool Bhulaiyaa,Comedy | Horror | Mystery,6
+541,tt0995035,Dhol,Comedy,4
+542,tt0995718,Ek Chalis Ki Last Local,Adventure | Comedy | Crime,1
+543,tt0995740,No Smoking,Drama | Thriller,1
+544,tt0995752,Tashan,Action | Comedy | Crime,3
+545,tt0995823,Khoya Khoya Chand,Drama | Romance,1
+546,tt0995827,The Train: Some Lines Shoulder Never Be Crossed...,Thriller,2
+547,tt0995840,Aap Kaa Surroor: The Moviee - The Real Luv Story,Drama | Romance | Thriller,4
+548,tt1014672,Bheja Fry,Comedy | Drama,6
+549,tt1016044,Yehi Hai Zindagi,Action | Crime | Drama,1
+550,tt1016159,Chain Kulii Ki Main Kulii,Comedy | Drama | Family,1
+551,tt1017456,Race,Action | Crime | Drama,6
+552,tt1020937,Awarapan,Action | Crime | Drama,1
+553,tt1020978,Naqaab,Crime | Drama | Romance,1
+554,tt1024839,De Taali,Comedy | Drama | Romance,2
+555,tt1024852,Meerabai Not Out,Comedy | Drama | Romance,1
+556,tt1024943,Om Shanti Om,Action | Comedy | Drama,8
+557,tt1029231,Krrish 3,Action | Sci-Fi,8
+558,tt1034449,Kidnap,Crime | Drama | Thriller,2
+559,tt1039989,Sunday,Action | Comedy | Romance,2
+560,tt1039995,U Me Aur Hum,Comedy | Drama | Romance,2
+561,tt1043451,Delhi-6,Comedy | Drama,2
+562,tt1043876,Woodstock Villa,Drama | Mystery | Thriller,2
+563,tt1047519,Red Swastik,Crime | Drama | Thriller,1
+564,tt1050739,Roadside Romeo,Animation | Comedy | Family,1
+565,tt1056465,Chanchal,Drama | Musical,1
+566,tt1060249,Drona,Action | Adventure | Drama,1
+567,tt1065099,My Friend Ganesha,Animation,2
+568,tt1077248,Johnny Gaddaar,Crime | Drama | Thriller,2
+569,tt1079967,Hastey Hastey Follow Your Heart,Comedy | Drama,1
+570,tt1083447,Buddha Mar Gaya,Comedy,2
+571,tt1083988,Journey Bombay to Goa: Laughter Unlimited,Comedy,2
+572,tt1084972,Wanted,Action | Comedy | Crime,6
+573,tt1087856,Hello,Drama | Romance,2
+574,tt1090650,Dhokha,Action | Drama | Romance,1
+575,tt1091229,Chandni Chowk to China,Action | Adventure | Comedy,1
+576,tt1092005,Golmaal Returns,Comedy | Crime | Drama,6
+577,tt1093370,Jab We Met,Comedy | Romance,6
+578,tt1093387,Sab Kuch Hai Kuch Bhi Nahin,Drama,1
+579,tt1095038,Victoria No. 203: Diamonds Are Forever,Comedy | Crime | Mystery,1
+580,tt1099196,Dil Dosti Etc,Comedy | Crime | Drama,2
+581,tt1101665,Shaurya: It Takes Courage to Make Right... Right,Crime | Drama | Thriller,2
+582,tt1105709,8 x 10 Tasveer,Crime | Drama | Mystery,1
+583,tt1105733,Kismat Konnection,Comedy | Drama | Romance,2
+584,tt1105747,Yuvvraaj,Comedy | Drama | Romance,1
+585,tt1114725,Heroes,Action | Adventure | Comedy,2
+586,tt1117964,Bobby: Love and Lust,Romance,1
+587,tt1118646,Aseema: Beyond Boundaries,Drama | Romance,1
+588,tt1120897,Dhan Dhana Dhan Goal,Sport,2
+589,tt1124386,Pankh,Drama,1
+590,tt1126516,Money Hai Toh Honey Hai,Comedy | Drama,1
+591,tt1127870,Mumbai Salsa,Comedy | Drama,1
+592,tt1132589,Hijack,Action | Drama | Thriller,1
+593,tt1132595,Maan Gaye Mughall-E-Azam,Comedy | Crime | Drama,1
+594,tt1132606,Ugly Aur Pagli,Comedy | Drama,2
+595,tt1137434,Aabra Ka Daabra,Fantasy,1
+596,tt1137979,Rama Rama Kya Hai Dramaaa,Comedy | Drama | Romance,1
+597,tt1139671,Yeh Hai Pyar Ka Mausam,Crime,1
+598,tt1144804,Kambakkht Ishq,Action | Comedy | Romance,4
+599,tt1146325,Singh Is Kinng,Action | Comedy | Crime,7
+600,tt1156148,Karzzzz,Action | Drama | Musical,1
+601,tt1159917,Bombay to Bangkok,Comedy | Drama | Romance,1
+602,tt1166100,Ghajini,Action | Drama | Mystery,8
+603,tt1169841,Return of Hanuman,Animation | Action | Adventure,1
+604,tt1170399,C Kkompany,Comedy | Drama,1
+605,tt1170404,Mere Baap Pehle Aap,Comedy | Drama | Romance,3
+606,tt1170411,Victory,Drama | Sport,1
+607,tt1172587,Delhi Safari,Animation,1
+608,tt1174041,Main Aurr Mrs Khanna,Comedy | Drama,1
+609,tt1176141,Zahreela,Action,1
+610,tt1176201,Jai Ganesh Deva,Fantasy,1
+611,tt1176911,Quick Gun Murugun: Misadventures of an Indian Cowboy,Action | Comedy | Drama,2
+612,tt1176960,One Two Three,Action | Comedy | Drama,4
+613,tt1176961,Paying Guests,Comedy | Drama,2
+614,tt1178657,Superstar,Drama | Romance,1
+615,tt1179781,Mission Istaanbul: Darr Ke Aagey Jeet Hai!,Action | Adventure | Drama,1
+616,tt1179782,Mithya,Comedy | Crime | Drama,3
+617,tt1182884,Dulha Mil Gaya,Comedy | Drama,1
+618,tt1182908,Krazzy 4,Action | Comedy | Crime,4
+619,tt1182937,Rab Ne Bana Di Jodi,Comedy | Drama | Musical,8
+620,tt1182972,Bachna Ae Haseeno,Comedy | Drama | Romance,5
+621,tt1183917,Teen Patti,Drama | Thriller,1
+622,tt1183944,Sadiyaan: Boundaries Divide... Love Unites,Drama | Romance,1
+623,tt1183946,The Stoneman Murders,Crime | Drama | Mystery,1
+624,tt1185412,Veer,Action | Adventure | Drama,3
+625,tt1185420,Dostana,Comedy | Drama | Romance,4
+626,tt1185442,Kurbaan,Action | Crime | Drama,2
+627,tt1187043,3 Idiots,Comedy | Drama,9
+628,tt1188982,Jai Ho,Action | Drama,5
+629,tt1188996,My Name Is Khan,Drama | Romance | Thriller,6
+630,tt1189006,Toonpur Ka Superrhero,Animation | Action | Adventure,1
+631,tt1191118,Hello Darling,Comedy | Drama,1
+632,tt1191138,Thoda Pyaar Thoda Magic,Comedy | Drama | Family,2
+633,tt1194232,Jaane Kahan Se Aayi Hai,Comedy | Drama | Fantasy,1
+634,tt1194236,Get Educated: Paathshaala,Drama,2
+635,tt1194608,Ek Vivaah... Aisa Bhi,Drama | Romance,2
+636,tt1198101,Kites,Action | Drama | Romance,2
+637,tt1199490,Bad Luck Govind,Comedy | Crime | Drama,1
+638,tt1199534,Tulsi: Mathrudevobhava,Drama,1
+639,tt1201557,Acid Factory,Action | Crime | Drama,1
+640,tt1202344,Ab... Bas!,Thriller,1
+641,tt1202517,Barah Aana,Comedy | Crime | Drama,1
+642,tt1202540,Dil Bole Hadippa!,Comedy | Drama | Sport,2
+643,tt1214948,Bhram: An Illusion,Drama | Mystery | Romance,1
+644,tt1216276,26th July at Barista,Drama,1
+645,tt1216300,Jannat: In Search of Heaven...,Crime | Drama | Romance,7
+646,tt1217608,Yaar Meri Zindagi,Drama | Family | Musical,1
+647,tt1218038,The President Is Coming,Comedy,1
+648,tt1218345,Dil Kabaddi,Comedy | Drama,2
+649,tt1220718,Via Darjeeling,Drama | Mystery | Thriller,1
+650,tt1221133,EMI: Liya Hai To Chukana Padega,Comedy | Crime | Drama,1
+651,tt1221139,Welcome to Sajjanpur,Comedy | Drama,4
+652,tt1221142,Mumbai Cutting,Drama,1
+653,tt1223922,Blue,Action | Adventure | Romance,2
+654,tt1224454,Sirf....: Life Looks Greener on the Other Side,Drama,1
+655,tt1227524,Aashayein,Comedy | Drama,1
+656,tt1227762,Aladin,Action | Adventure | Comedy,1
+657,tt1228707,Jimmy,Action | Crime | Drama,1
+658,tt1228726,Mr. White Mr. Black,Action | Comedy | Crime,1
+659,tt1228744,Pranali: The Tradition,Crime | Drama,1
+660,tt1230165,Rock On!!,Drama | Music,4
+661,tt1230448,Billu,Comedy | Drama,2
+662,tt1234250,Mehbooba,Drama | Romance,1
+663,tt1236441,Phir Kabhi,Drama | Romance,1
+664,tt1238718,Alibaba Aur 40 Chor,Action | Adventure | Drama,1
+665,tt1238735,Dhoom Dadakka,Comedy | Crime | Drama,1
+666,tt1241195,Aamir,Drama | Thriller,2
+667,tt1241334,Saas Bahu Aur Sensex,Comedy | Drama,1
+668,tt1242530,What's Your Raashee?,Comedy | Drama | Romance,1
+669,tt1242782,Luck,Action | Adventure | Drama,2
+670,tt1242843,Contract,Action | Crime | Drama,2
+671,tt1244093,Hisss,Comedy | Drama | Horror,1
+672,tt1245774,Jail,Drama,2
+673,tt1252488,Haal-e-Dil,Drama | Romance,1
+674,tt1252562,Khushboo: The Fragraance of Love,Comedy | Drama | Romance,1
+675,tt1252594,Aasma: The Sky Is the Limit,Drama,1
+676,tt1252596,Ajab Prem Ki Ghazab Kahani,Comedy | Romance,7
+677,tt1252614,Sankat City,Comedy | Crime | Drama,1
+678,tt1255873,Hari Puttar: A Comedy of Terrors,Comedy | Drama | Family,1
+679,tt1255951,De Dana Dan,Comedy,4
+680,tt1259755,Boond,Action | Crime | Drama,1
+681,tt1260689,Summer 2007,Crime | Drama | Thriller,1
+682,tt1261047,Gulaal,Crime | Drama | Mystery,2
+683,tt1266140,Mirchi: It's Hot,Crime,1
+684,tt1266545,Chamku,Action | Crime | Drama,1
+685,tt1266583,Mumbai Meri Jaan,Drama,2
+686,tt1267400,Thodi Life Thoda Magic,Drama,1
+687,tt1267500,Phoonk,Drama | Horror | Mystery,6
+688,tt1274295,Kaminey: The Scoundrels,Action | Comedy | Crime,4
+689,tt1275863,Love Aaj Kal,Comedy | Drama | Romance,1
+690,tt1278447,Sikandar,Crime | Drama | Mystery,1
+691,tt1279105,Ramaa: The Saviour,Animation | Action | Adventure,1
+692,tt1280558,A Wednesday,Drama | Thriller,6
+693,tt1283926,My Friend Ganesha 2,Animation | Family,1
+694,tt1285241,Don 2,Action | Crime | Drama,6
+695,tt1285245,Lahore,Action | Drama | Sport,1
+696,tt1287847,Mukhbiir,Crime | Drama | Mystery,1
+697,tt1288638,Dasvidaniya,Comedy | Drama,1
+698,tt1288644,Mere Khwabon Mein Jo Aaye,Drama | Fantasy | Musical,1
+699,tt1291465,Raajneeti,Action | Crime | Drama,7
+700,tt1292642,Allah Ke Banday,Action | Crime | Drama,1
+701,tt1292703,Oye Lucky! Lucky Oye!,Comedy | Crime | Drama,2
+702,tt1301698,1920,Drama | Horror | Mystery,4
+703,tt1305840,Aloo Chaat,Comedy | Drama | Romance,2
+704,tt1309561,Lamhaa: The Untold Story of Kashmir,Action | Drama | Thriller,1
+705,tt1314274,Hulla,Comedy | Drama,1
+706,tt1314367,Ru-Ba-Ru,Drama | Romance | Thriller,1
+707,tt1324025,Rafoo Chakkar: Fun on the Run,Comedy | Crime | Drama,1
+708,tt1324059,Wake Up Sid,Comedy | Drama | Romance,5
+709,tt1324076,Fox,Crime | Drama | Mystery,1
+710,tt1324078,Kal Kissne Dekha,Action | Crime | Romance,1
+711,tt1327035,Dev D,Comedy | Drama | Romance,4
+712,tt1327833,Sorry Bhai!,Comedy | Drama | Romance,1
+713,tt1328634,New York,Crime | Drama | History,6
+714,tt1334254,Maharathi,Crime | Drama | Mystery,1
+715,tt1334413,Jumbo,Animation | Family,1
+716,tt1334437,Blue Oranges,Mystery,1
+717,tt1334470,Raavan,Action | Adventure | Crime,2
+718,tt1339313,Jalwa: Fun in Love,Comedy | Drama,1
+719,tt1340838,Raaz: The Mystery Continues,Drama | Horror | Mystery,5
+720,tt1343362,Do Knot Disturb,Comedy | Drama,2
+721,tt1345777,Ishqiya,Comedy | Drama | Romance,5
+722,tt1351224,Pyaar Impossible!,Comedy | Romance,2
+723,tt1363125,Naughty @ 40,Comedy | Drama,1
+724,tt1363363,Chatur Singh Two Star,Action | Adventure | Comedy,1
+725,tt1368453,Chargesheet,Drama | Thriller,1
+726,tt1369669,Jai Veeru: Friends Forever,Action | Crime | Drama,1
+727,tt1370429,99,Comedy | Crime | Drama,4
+728,tt1372266,Kisaan,Action | Crime | Drama,1
+729,tt1372304,Wafaa,Drama | Mystery | Romance,1
+730,tt1372681,Aa Dekhen Zara,Action | Crime | Drama,1
+731,tt1372694,Gumnaam: The Mystery,Crime | Mystery | Romance,1
+732,tt1373156,Karthik Calling Karthik,Drama | Romance | Thriller,2
+733,tt1375789,Race 2,Action | Crime | Drama,5
+734,tt1385824,13B: Fear Has a New Address,Drama | Horror | Mystery,2
+735,tt1388424,Three: Love Lies Betrayal,Drama | Mystery | Thriller,1
+736,tt1388903,Mirch,Comedy | Drama | Fantasy,1
+737,tt1391544,Dhoondte Reh Jaoge,Comedy | Drama,2
+738,tt1391894,Siddharth: The Prisoner,Crime | Drama | Thriller,1
+739,tt1392744,Chance Pe Dance,Comedy | Drama | Romance,2
+740,tt1395025,Agent Vinod,Action,2
+741,tt1395054,Once Upon a Time in Mumbai,Crime | Drama | Romance,6
+742,tt1396208,Action Replayy,Comedy | Drama | Romance,2
+743,tt1399602,Straight,Comedy | Drama,1
+744,tt1404573,Daddy Cool: Join the Fun,Comedy | Drama,2
+745,tt1408029,Krantiveer: The Revolution,Action | Crime | Drama,1
+746,tt1415252,Agyaat: The Unknown,Drama | Horror | Mystery,2
+747,tt1420539,Ek Se Bure Do,Action | Comedy | Crime,1
+748,tt1425618,Apartment: Rent at Your Own Risk,Drama | Thriller,1
+749,tt1428459,We Are Family,Drama | Family,2
+750,tt1431122,No Problem,Action | Comedy | Crime,2
+751,tt1431729,Mohandas,Thriller,1
+752,tt1433810,Mumbai Diaries,Drama,1
+753,tt1433905,All the Best: Fun Begins,Action | Comedy | Drama,4
+754,tt1434447,Rocket Singh: Salesman of the Year,Comedy | Drama,3
+755,tt1438298,Guzaarish,Comedy | Drama | Romance,1
+756,tt1438486,Chal Chala Chal,Action | Comedy | Crime,1
+757,tt1442570,Fast Forward,Action | Drama | Musical,1
+758,tt1442583,Tum Milo Toh Sahi,Comedy | Drama,1
+759,tt1446055,Don Muthu Swami,Comedy | Drama,1
+760,tt1447508,Peepli (Live),Comedy | Drama,6
+761,tt1451797,Rann,Drama | Mystery,1
+762,tt1454461,Ek: The Power of One,Action | Drama | Thriller,1
+763,tt1454567,Team: The Force,Action | Comedy | Crime,1
+764,tt1455811,Khatta Meetha,Comedy | Crime | Drama,3
+765,tt1455816,Prince,Action | Crime | Drama,2
+766,tt1456946,Anubhav: An Actor's Tale,Drama | Romance,1
+767,tt1465488,Happy Husbands,Comedy | Drama,1
+768,tt1465493,Hum Tum Aur Ghost,Comedy | Drama | Fantasy,1
+769,tt1471247,Road to Sangam,Drama | Thriller,1
+770,tt1474271,Love Khichdi,Comedy | Drama | Romance,1
+771,tt1479667,Aagey Se Right,Comedy | Crime | Drama,2
+772,tt1479857,Zor Lagaa Ke... Haiya!,Comedy | Drama | Family,1
+773,tt1485072,Teree Sang: A Kidult Love Story,Drama | Romance,2
+774,tt1499201,Anjaana Anjaani,Comedy | Drama | Musical,4
+775,tt1501301,Morning Walk,Drama,1
+776,tt1503640,Damadamm!,Comedy | Drama | Romance,1
+777,tt1504687,I Am Singh,Action | Crime | Drama,1
+778,tt1508259,Dhara,Drama | Romance,1
+779,tt1508950,Baabarr,Action | Crime | Drama,1
+780,tt1509732,Aisha,Comedy | Drama | Romance,2
+781,tt1512220,My Friend Pinto,Comedy | Crime | Drama,1
+782,tt1512321,Vaada Raha... I Promise,Drama,1
+783,tt1522329,Tum Mile,Drama | Romance,1
+784,tt1532957,Paa,Comedy | Drama,5
+785,tt1535467,Patiala House,Comedy | Drama | Sport,2
+786,tt1538210,Aao Wish Karein,Comedy | Drama | Fantasy,1
+787,tt1558578,Knock Out,Action | Crime | Drama,1
+788,tt1562361,Let's Dance,Crime | Drama | Musical,1
+789,tt1562859,Golmaal 3,Action | Comedy,8
+790,tt1562871,Ra.One,Action | Adventure | Sci-Fi,6
+791,tt1562872,Zindagi Na Milegi Dobara,Adventure | Comedy | Drama,6
+792,tt1569529,"U, Bomsi n Me",Comedy,1
+793,tt1570417,Accident on Hill Road,Crime | Drama | Thriller,1
+794,tt1572311,Tees Maar Khan,Comedy | Crime | Drama,5
+795,tt1573072,Housefull,Comedy,6
+796,tt1573482,Striker,Crime | Drama,1
+797,tt1578116,Atithi Tum Kab Jaoge?,Comedy | Drama,4
+798,tt1578261,Break Ke Baad,Comedy | Drama | Romance,2
+799,tt1587388,Yeh Hai Malegaon Ka Superman,Comedy | Family,1
+800,tt1591615,World Cupp 2011,Crime | Drama | Sport,1
+801,tt1594964,Chase,Action | Crime | Drama,1
+802,tt1594974,Shola: Fire of Love,Action | Crime | Drama,1
+803,tt1596723,Click,Drama | Fantasy | Mystery,1
+804,tt1600439,Shaapit: The Cursed,Action | Drama | Horror,2
+805,tt1602476,Badmaa$h Company,Comedy | Crime | Drama,4
+806,tt1603862,Jashnn: The Music Within,Drama | Musical | Romance,1
+807,tt1605778,Toh Baat Pakki!,Comedy | Drama,1
+808,tt1605790,Zokkomon,Action | Adventure | Drama,1
+809,tt1606162,Aakhari Decision,Action | Drama | Thriller,1
+810,tt1606267,Lafangey Parindey,Crime | Drama | Romance,3
+811,tt1607568,Lava Kusa: The Warrior Twins,Animation,1
+812,tt1607600,Muskurake Dekh Zara,Comedy | Horror | Romance,1
+813,tt1607607,Mittal v/s Mittal,Drama,1
+814,tt1608768,City of Gold - Mumbai 1982: Ek Ankahee Kahani,Crime | Drama,1
+815,tt1608777,"LSD: Love, Sex Aur Dhokha",Comedy | Crime | Drama,5
+816,tt1610418,Prem Kaa Game,Comedy | Drama,1
+817,tt1610452,Wedding Planners,Comedy | Drama | Romance,5
+818,tt1612573,Rokkk,Drama | Horror | Mystery,1
+819,tt1612574,Sanam Hum Aapke Hain...,Drama | Romance,1
+820,tt1612611,Phoonk 2,Drama | Horror | Mystery,2
+821,tt1612761,Idiot Box,Comedy | Drama,1
+822,tt1618430,Dum Maaro Dum,Action | Crime | Drama,2
+823,tt1620620,The Japanese Wife,Drama | Romance,1
+824,tt1620697,Bhavnao Ko Samjho,Action | Comedy | Drama,1
+825,tt1620719,Dabangg,Action | Comedy | Crime,8
+826,tt1620907,Na Ghar Ke Na Ghaat Ke,Comedy | Drama,1
+827,tt1625331,Hello Zindagi,Drama | Family,1
+828,tt1627924,Mausam,Drama | Romance,2
+829,tt1629241,Bumm Bumm Bole,Action | Drama | Thriller,1
+830,tt1629260,Ek Second... Jo Zindagi Badal De...,Drama | Romance | Thriller,1
+831,tt1629376,7 Khoon Maaf,Drama | Mystery | Thriller,2
+832,tt1629391,Tere Bin Laden,Comedy | Drama,3
+833,tt1629424,Trump Card,Action | Drama | Mystery,1
+834,tt1630282,Sahi Dhandhe Galat Bande,Action | Comedy | Drama,1
+835,tt1630590,Kya Yahi Sach Hai,Crime | Drama | Thriller,1
+836,tt1630613,Soch Lo,Action | Crime | Drama,1
+837,tt1633171,Bird Idol,Animation,1
+838,tt1633212,Kajraare,Crime | Drama | Romance,1
+839,tt1633226,Musaa: The Most Wanted,Action | Crime | Thriller,1
+840,tt1633250,Swaha: Life Beyond Superstition,Drama | Fantasy | Horror,1
+841,tt1637691,Khelein Hum Jee Jaan Sey,Action | Drama | History,1
+842,tt1639426,Udaan,Drama,2
+843,tt1643242,Trapped in Tradition: Rivaaz,Crime | Drama | Thriller,1
+844,tt1646217,Mr. Singh/Mrs. Mehta,Drama,1
+845,tt1649760,The Film Emotional Atyachar,Comedy | Crime | Drama,1
+846,tt1663647,Help,Drama | Horror | Thriller,1
+847,tt1666184,Turning 30!!!,Comedy | Drama | Romance,1
+848,tt1667076,F.A.L.T.U,Comedy | Drama,4
+849,tt1667823,Bhindi Baazaar,Crime | Drama | Thriller,1
+850,tt1667838,I Hate Luv Storys,Comedy | Drama | Romance,6
+851,tt1668078,Daayen Ya Baayen,Comedy | Drama | Family,1
+852,tt1673391,Hello Hum Lallann Bol Rahe Hain,Comedy | Drama,1
+853,tt1673411,Kushti,Comedy,1
+854,tt1674068,I Am,Documentary | Biography | Family,1
+855,tt1694542,Tanu Weds Manu,Comedy | Drama | Romance,6
+856,tt1696191,Tere Mere Phere,Comedy | Drama | Romance,1
+857,tt1703958,Ek Main Aur Ekk Tu,Comedy | Drama | Romance,4
+858,tt1706317,Tezz,Action | Drama,1
+859,tt1708453,Aakrosh,Action | Crime | Drama,1
+860,tt1708532,Ready,Comedy | Romance,8
+861,tt1714832,Do Dooni Chaar,Comedy | Drama,2
+862,tt1720254,Thank You,Comedy | Drama | Romance,2
+863,tt1727496,Dil Toh Baccha Hai Ji,Comedy | Drama | Romance,2
+864,tt1728986,Bol Bachchan,Comedy,6
+865,tt1729637,Bodyguard,Romance,8
+866,tt1734110,No One Killed Jessica,Crime | Drama | Thriller,5
+867,tt1738293,Khichdi: The Movie,Comedy | Drama | Family,4
+868,tt1740017,Payback,Action | Crime | Drama,1
+869,tt1740092,Chitkabrey,Drama | Mystery | Thriller,1
+870,tt1740662,Benny and Babloo,Comedy | Drama,1
+871,tt1740670,Dus Tola,Comedy | Drama,1
+872,tt1740710,Mere Brother Ki Dulhan,Comedy | Drama | Romance,6
+873,tt1742307,Dunno Y Na Jaane Kyun...,Drama | Romance,1
+874,tt1744641,Ramayana: The Epic,Animation,1
+875,tt1745753,Life Express,Drama,1
+876,tt1753640,Crook: It's Good to Be Bad,Action | Drama | Thriller,2
+877,tt1754920,Yeh Saali Zindagi,Crime | Drama | Thriller,3
+878,tt1772762,Bachao - Inside Bhoot Hai...,Horror,1
+879,tt1772872,Game,Action | Crime | Drama,1
+880,tt1773015,Phas Gaye Re Obama,Comedy | Crime,2
+881,tt1773042,Shahrukh Bola 'Khoobsurat Hai Tu'... And She Believed in It,Comedy | Drama,1
+882,tt1773109,Yamla Pagla Deewana,Action | Comedy | Drama,6
+883,tt1774473,Love You to Death,Comedy,1
+884,tt1781838,Isi Life Mein...!,Comedy | Drama | Romance,1
+885,tt1784589,Players,Action | Crime | Thriller,1
+886,tt1785333,Chittagong,Action | Drama | War,1
+887,tt1787988,Talaash,Crime | Drama | Mystery,5
+888,tt1796564,My Friend Ganesha 3,Animation | Comedy | Drama,1
+889,tt1797548,Yeh Faasley,Crime | Drama | Mystery,1
+890,tt1801521,Khap,Drama | Thriller,1
+891,tt1806740,9 Eleven,Thriller,1
+892,tt1807978,Bhoot and Friends,Animation | Action | Adventure,1
+893,tt1808221,Kaalo,Action | Drama | Horror,1
+894,tt1809399,Utt Pataang,Comedy | Drama,1
+895,tt1814619,Aashiqui.in,Drama | Romance,1
+896,tt1814683,Diary of a Butterfly,Drama,1
+897,tt1821480,Kahaani,Drama | Mystery | Thriller,6
+898,tt1821692,United Six,Action | Drama | Thriller,1
+899,tt1825655,Angel,Action | Drama,1
+900,tt1825801,Hostel,Action | Crime | Drama,1
+901,tt1828289,Shagird,Action | Crime | Drama,1
+902,tt1830786,Rascals,Action | Comedy | Crime,2
+903,tt1833673,Dhoom: 3,Action | Crime | Thriller,9
+904,tt1836015,Kaccha Limboo,Comedy | Family,1
+905,tt1836912,Shaitan,Action | Crime | Drama,2
+906,tt1839596,RockStar,Music | Musical,5
+907,tt1841542,Chillar Party,Comedy | Drama | Family,2
+908,tt1847736,U R My Jaan,Romance,1
+909,tt1848771,Aarakshan,Drama | Thriller,2
+910,tt1849718,Agneepath,Action | Crime | Drama,7
+911,tt1852076,Qasam Se Qasam Se,Romance,1
+912,tt1867070,Teen Thay Bhai,Comedy | Drama,1
+913,tt1869296,Bbuddah Hoga Terra Baap,Action | Crime | Drama,2
+914,tt1877691,Love Breakups Zindagi,Comedy | Drama | Romance,1
+915,tt1883121,404: Error Not Found,Drama | Mystery | Thriller,1
+916,tt1884268,Chalo Dilli,Comedy | Drama,3
+917,tt1886663,Satrangee Parachute,Comedy | Drama | Family,1
+918,tt1887763,Haunted - 3D,Horror | Mystery | Thriller,6
+919,tt1887817,Monica,Drama | Thriller,1
+920,tt1890513,Ragini MMS,Drama | Horror | Mystery,5
+921,tt1891884,Once Upon a Time in Mumbai Dobaara!,Action | Crime | Drama,1
+922,tt1893409,Ye Stupid Pyar,Romance,1
+923,tt1896781,Masti Express,Comedy | Drama,1
+924,tt1899342,Vikalp,Crime | Drama | Mystery,1
+925,tt1900937,Mumbai Mast Kallander,Action | Comedy | Crime,1
+926,tt1905076,Tum Hi To Ho...,Drama | Mystery | Thriller,1
+927,tt1907721,Men Will Be Men,Comedy,1
+928,tt1908463,Bengaloored,Drama | Romance,1
+929,tt1912483,The Camp,Adventure | Drama,1
+930,tt1916728,Shor in the City,Crime | Drama,2
+931,tt1918641,5ters: Castle of Dark Master,Action | Adventure | Fantasy,1
+932,tt1918650,A Strange Love Story,Drama,1
+933,tt1918886,Joker,Comedy | Sci-Fi,1
+934,tt1918927,Luv Ka the End,Comedy | Drama,2
+935,tt1918965,Murder 2,Action | Crime | Drama,7
+936,tt1920986,Khuda Kasam,Action | Crime | Drama,1
+937,tt1921071,Queens! Destiny of Dance,Musical,1
+938,tt1926313,Pyaar Ka Punchnama,Comedy | Drama | Romance,4
+939,tt1929309,Mallika,Drama | Horror | Mystery,1
+940,tt1934231,Delhi Belly,Comedy | Crime | Drama,6
+941,tt1935184,Nakshatra,Crime | Drama | Mystery,1
+942,tt1937092,Always Kabhi Kabhi,Comedy | Crime | Drama,1
+943,tt1937455,Vroom,Action | Comedy | Crime,1
+944,tt1939654,Bheja Fry 2,Comedy | Drama,3
+945,tt1941657,Soundtrack,Drama | Musical,1
+946,tt1942905,Kucch Luv Jaisaa,Crime | Drama | Thriller,1
+947,tt1947973,Bin Bulaye Baraati,Action | Comedy | Crime,1
+948,tt1948047,Impatient Vivek,Comedy | Drama | Romance,1
+949,tt1948150,Singham,Action | Crime | Drama,7
+950,tt1948640,The Waiting Room,Crime | Drama | Mystery,1
+951,tt1949548,Heroine,Drama,3
+952,tt1954206,The Dirty Picture,Biography | Comedy | Drama,7
+953,tt1954470,Gangs of Wasseypur,Action | Crime | Drama,3
+954,tt1954598,Ladies vs. Ricky Bahl,Comedy | Drama,4
+955,tt1956433,Ata Pata Lapatta,Comedy | Musical,1
+956,tt1961330,Good Luck!,Comedy | Drama,1
+957,tt1961530,Tell Me O Kkhuda,Action | Crime | Drama,1
+958,tt1964886,Love Express,Comedy | Drama,1
+959,tt1970029,Suno Na.. Ek Nanhi Aawaz,Drama,1
+960,tt1979209,Chala Mussaddi - Office Office,Comedy | Drama,1
+961,tt1980970,Gandhi to Hitler,Drama | History | War,1
+962,tt1980986,Housefull 2,Comedy | Romance,7
+963,tt1985058,Dekh Bhai Dekh: Laughter Behind Darkness,Comedy | Crime | Drama,1
+964,tt1985981,Desi Boyz,Comedy | Drama,2
+965,tt1986040,Ishkq in Paris,Comedy | Romance,1
+966,tt1986788,Chal Chalein,Drama,1
+967,tt1992138,Force,Action | Crime | Drama,2
+968,tt1992257,Toss: A Flip of Destiny,Crime | Drama | Thriller,1
+969,tt1995245,Aamras: The Sweet Taste of Friendship,Drama,1
+970,tt1995257,Bachelor Party,Comedy | Drama,1
+971,tt1999857,Cycle Kick,Drama | Sport,1
+972,tt1999935,Not a Love Story,Crime | Drama | Thriller,2
+973,tt2011871,Ashok Chakra: Tribute to Real Heroes,Action,1
+974,tt2012576,Bubble Gum,Drama,1
+975,tt2016845,Aagaah: The Warning,Drama | Horror | Thriller,1
+976,tt2016894,Ek Tha Tiger,Action | Romance | Thriller,8
+977,tt2023645,Phhir,Drama | Mystery | Romance,1
+978,tt2027138,Kyaa Super Kool Hain Hum,Comedy,5
+979,tt2028553,Stand By,Drama | Sport | Thriller,1
+980,tt2032530,Shabri,Action | Crime | Drama,1
+981,tt2033264,Hair is Falling: A Serious Comedy Film,Comedy | Drama,1
+982,tt2033947,Aazaan,Action | Drama | Mystery,1
+983,tt2034011,Hum Tum Shabana,Comedy | Crime | Drama,1
+984,tt2035528,Hum Do Anjaane,Action | Crime | Drama,1
+985,tt2043923,Mod,Drama | Romance | Thriller,1
+986,tt2046106,Jaana Pehchana,Drama,1
+987,tt2057441,Mujhse Fraaandship Karoge,Comedy | Drama | Romance,2
+988,tt2058651,Maruti Mera Dosst,Animation | Adventure | Drama,1
+989,tt2063745,Kya Dilli Kya Lahore,Drama | History | War,1
+990,tt2064816,"I, Me aur Main",Drama,2
+991,tt2064849,London Paris New York,Romance,2
+992,tt2064852,Lottery,Crime | Drama | Mystery,1
+993,tt2066062,Shortcut Romeo,Action | Crime | Romance,1
+994,tt2066899,Jugaad,Comedy | Drama,1
+995,tt2066925,Mummy Punjabi: Superman Ki Bhi Maa!!,Comedy | Drama,1
+996,tt2072227,Shanghai,Crime | Thriller,2
+997,tt2073070,Saheb Biwi Aur Gangster,Action | Crime | Drama,3
+998,tt2077833,Rowdy Rathore,Action | Comedy,8
+999,tt2082197,Barfi!,Adventure | Comedy | Drama,7
+1000,tt2084863,Jo Dooba So Paar: It's Love in Bihar!,Comedy | Crime | Drama,1
+1001,tt2094854,Inkaar,Drama | Romance,2
+1002,tt2100543,Hum Hai Raahi CAR Ke,Adventure | Romance,1
+1003,tt2104937,Miley - Naa Miley - Hum,Comedy | Drama | Romance,1
+1004,tt2106537,Matru ki Bijlee ka Mandola,Comedy | Drama,2
+1005,tt2109200,Shakal Pe Mat Ja,Comedy | Crime | Drama,1
+1006,tt2112124,Chennai Express,Action | Comedy | Romance,8
+1007,tt2112131,Dabangg 2,Action | Comedy | Drama,8
+1008,tt2112978,Jo Hum Chahein,Drama | Romance,1
+1009,tt2122340,Ferrari Ki Sawaari,Crime | Family | Sport,5
+1010,tt2126282,Ekk Deewana Tha,Romance,2
+1011,tt2130242,Tere Naal Love Ho Gaya,Comedy | Romance,3
+1012,tt2137064,Lanka,Action | Crime | Drama,1
+1013,tt2138010,3 Nights 4 Days,Romance,1
+1014,tt2140315,Raaz 3: The Third Dimension,Horror | Romance | Thriller,7
+1015,tt2150074,Koi Hai,Drama | Horror,1
+1016,tt2155776,Yeh Jo Mohabbat Hai,Drama,1
+1017,tt2164702,Zindagi Tere Naam,Romance,1
+1018,tt2166214,Khiladi 786,Action | Comedy,4
+1019,tt2168910,Cocktail,Comedy | Drama | Romance,6
+1020,tt2172071,Student of the Year,Comedy | Romance,5
+1021,tt2175671,Ghost,Horror,2
+1022,tt2176013,Jab Tak Hai Jaan,Drama | Romance,6
+1023,tt2178470,Yeh Jawaani Hai Deewani,Drama | Musical | Romance,8
+1024,tt2178508,Son of Sardaar,Action | Comedy | Romance,6
+1025,tt2181931,English Vinglish,Comedy | Drama | Family,5
+1026,tt2182726,Hansa,Drama,1
+1027,tt2184125,Chaalis Chauraasi,Comedy | Crime,1
+1028,tt2185084,From Sydney with Love,Comedy | Romance,1
+1029,tt2186731,Department,Action,1
+1030,tt2186933,Luv Shuv Tey Chicken Khurana,Comedy,2
+1031,tt2187167,Unforgettable,Drama | Romance,1
+1032,tt2187972,Shirin Farhad Ki Toh Nikal Padi,Romance,2
+1033,tt2188749,Gali Gali Chor Hai,Drama,1
+1034,tt2188805,Login,Drama | Thriller,1
+1035,tt2188893,Staying Alive,Drama,1
+1036,tt2190256,Daal Mein kuch kaala hai,Comedy,1
+1037,tt2191164,Station,Crime | Drama | Thriller,1
+1038,tt2191641,Chaar Din Ki Chandni,Comedy | Romance,1
+1039,tt2191721,Jodi Breakers,Comedy | Musical | Romance,2
+1040,tt2193145,Maharana Pratap: The First Freedom Fighter,Action | War,1
+1041,tt2203308,Aashiqui 2,Drama | Music | Musical,8
+1042,tt2207668,Chakradhaar,Action,1
+1043,tt2208248,Machhli Jal Ki Rani Hai,Horror,1
+1044,tt2210576,Myoho,Drama,1
+1045,tt2213054,Kai po che!,Drama | Sport,5
+1046,tt2215163,Issaq,Drama,1
+1047,tt2215477,Goliyon Ki Rasleela Ram-Leela,Drama | Musical | Romance,6
+1048,tt2216852,Main Aur Mr. Riight,Comedy | Romance,1
+1049,tt2220828,Identity Card,Comedy | Drama | Sci-Fi,1
+1050,tt2222550,1920: Evil Returns,Drama | Horror | Romance,5
+1051,tt2222716,Baat Bann Gayi,Comedy | Romance,1
+1052,tt2224254,3 Bachelors,Comedy | Romance,1
+1053,tt2224313,Listen... Amaya,Drama,1
+1054,tt2224317,Lootera,Drama | Romance,2
+1055,tt2224541,Tutiya Dil,Romance,1
+1056,tt2226666,Jism 2,Drama | Romance | Thriller,5
+1057,tt2229842,Table No. 21,Adventure | Thriller,3
+1058,tt2232524,Mere Dost Picture Abhi Baaki Hai,Comedy,1
+1059,tt2234328,Siyaah..,Horror,1
+1060,tt2236494,Shudra the Rising,History,1
+1061,tt2241224,Cheenti Cheenti Bang Bang,Animation | Family,1
+1062,tt2243336,Aalaap,Sci-Fi,1
+1063,tt2246533,2 Nights in Soul Valley,Adventure | Horror | Mystery,1
+1064,tt2246595,Blood Money,Action | Drama | Thriller,2
+1065,tt2246724,Ghanchakkar,Comedy | Crime | Thriller,2
+1066,tt2251552,Challo Driver,Comedy,1
+1067,tt2253708,Future to Bright Hai Ji,Drama,1
+1068,tt2255934,Aiyyaa,Comedy,1
+1069,tt2256514,Rush,Thriller,1
+1070,tt2265191,Bumboo,Comedy,1
+1071,tt2275794,Gori Tere Pyaar Mein,Comedy | Romance,1
+1072,tt2275802,Satyagraha,Drama,2
+1073,tt2278422,Kamaal Dhamaal Malamaal,Comedy,1
+1074,tt2283894,Riyasat,Crime,1
+1075,tt2292625,Chakravyuh,Drama | Thriller | War,2
+1076,tt2294685,Jeena Hai Toh Thok Daal,Drama,1
+1077,tt2301155,Shootout at Wadala,Action | Crime,4
+1078,tt2306721,Second Marriage Dot Com,Drama,1
+1079,tt2308773,Born to Hate... Destined to Love,Action | Drama | Romance,4
+1080,tt2308829,Milta Hai Chance by Chance,Comedy,1
+1081,tt2309764,Singham Returns,Action,7
+1082,tt2309987,Hate Story,Thriller,4
+1083,tt2317103,Sons of Ram,Animation | Drama | Musical,1
+1084,tt2317135,Tamanchey,Crime | Romance,1
+1085,tt2317337,Vicky Donor,Comedy | Romance,6
+1086,tt2318401,Bandook,Crime | Thriller,1
+1087,tt2319889,Jannat 2,Crime | Drama | Thriller,5
+1088,tt2321163,ABCD (Any Body Can Dance),Music | Western,5
+1089,tt2321492,Krishna Aur Kans,Animation | Action | Adventure,1
+1090,tt2323964,Mere Dad Ki Maruti,Comedy,3
+1091,tt2327389,Life Ki Toh Lag Gayi,Comedy,1
+1092,tt2332705,Love Recipe,Comedy,1
+1093,tt2337292,Chor chor super chor,Comedy | Drama | Thriller,1
+1094,tt2338151,PK,Comedy | Drama | Fantasy,9
+1095,tt2339549,Maximum,Crime | Thriller,1
+1096,tt2341766,Nautanki Saala!,Comedy,3
+1097,tt2343417,Chhodo Kal Ki Baatein,Drama,1
+1098,tt2344678,Himmatwala,Action | Comedy,2
+1099,tt2346744,Cigarette Ki Tarah,Romance | Thriller,1
+1100,tt2347289,Bittoo Boss,Romance,1
+1101,tt2350496,The Lunchbox,Drama | Romance,4
+1102,tt2353824,Janleva 555,Musical | Romance | Thriller,1
+1103,tt2354223,Mumbai's King,Drama,1
+1104,tt2354407,Teri Meri Kahaani,Drama | Romance,2
+1105,tt2356180,Bhaag Milkha Bhaag,Biography | Drama | History,7
+1106,tt2356959,Ajab Gazabb Love,Romance,1
+1107,tt2357489,Zanjeer,Action,1
+1108,tt2357926,Ramaiya Vastavaiya,Comedy | Family | Romance,2
+1109,tt2358412,David,Action | Crime | Drama,1
+1110,tt2359810,Raanjhanaa,Drama | Romance,6
+1111,tt2361148,Club 60,Drama,1
+1112,tt2362778,Saheb Biwi Aur Gangster Returns,Action | Crime | Drama,3
+1113,tt2367056,Chal Pichchur Banate Hain,Drama,1
+1114,tt2369154,R... Rajkumar,Action | Comedy | Romance,4
+1115,tt2372222,Kick,Action | Comedy | Romance,8
+1116,tt2372678,2 States,Drama | Romance,7
+1117,tt2377938,Special 26,Crime | Drama | Thriller,5
+1118,tt2378057,?: A Question Mark,Horror | Mystery | Thriller,1
+1119,tt2387495,Jalpari: The Desert Mermaid,Drama | Family | Mystery,1
+1120,tt2389486,Mai,Drama | Family,1
+1121,tt2389974,Aatma,Drama | Horror | Thriller,2
+1122,tt2401719,Prague,Mystery | Romance | Thriller,1
+1123,tt2402131,Kismet Love Paisa Dilli,Adventure | Comedy | Crime,1
+1124,tt2402691,Saari Raat,Short | Drama,1
+1125,tt2404027,Arjun: The Warrior Prince,Animation | Action | Adventure,1
+1126,tt2404187,Bloody Isshq,Romance,1
+1127,tt2404519,3G - A Killer Connection,Horror | Sci-Fi | Thriller,2
+1128,tt2404673,Overtime,Drama,1
+1129,tt2406636,Bhoot Returns,Horror,2
+1130,tt2406676,Ek Thi Daayan,Horror | Romance | Thriller,3
+1131,tt2416294,Rabba Main Kya Karoon,Comedy | Romance,1
+1132,tt2423132,Akaash Vani,Romance,1
+1133,tt2429640,Murder 3,Thriller,2
+1134,tt2429930,Khwaabb,Drama | Romance | Sport,1
+1135,tt2436516,Go Goa Gone,Action | Adventure | Comedy,2
+1136,tt2437954,Singh Saab the Great,Action | Drama,2
+1137,tt2438764,Rajjo,Drama | Romance,1
+1138,tt2461132,Happy New Year,Action | Comedy | Crime,7
+1139,tt2476154,Grand Masti,Comedy | Drama | Romance,7
+1140,tt2510874,Yamla Pagla Deewana 2,Action | Comedy | Drama,2
+1141,tt2554042,Maazii,Thriller,1
+1142,tt2556308,Holiday,Action | Romance | Thriller,6
+1143,tt2560016,Rajdhani Express,Action | Drama | Thriller,1
+1144,tt2571140,Boss,Action | Comedy | Drama,2
+1145,tt2573750,Gulaab Gang,Action | Drama,2
+1146,tt2574698,Gunday,Action | Crime | Drama,5
+1147,tt2576450,Besharam,Comedy | Romance,2
+1148,tt2589600,Mere Haule Dost,Comedy | Drama,1
+1149,tt2609218,Ragini MMS 2,Horror | Romance | Thriller,6
+1150,tt2609468,Sona Spa,Drama | Mystery | Thriller,1
+1151,tt2612924,Lucky Kabootar,Comedy,1
+1152,tt2613380,Pehli Nazar Ka Pyaar,Romance,1
+1153,tt2613942,Dehraadun Diary,Thriller,1
+1154,tt2615584,Phata Poster Nikhla Hero,Action | Comedy,2
+1155,tt2621000,Jolly LLB,Comedy | Drama,6
+1156,tt2622130,Jayantabhai Ki Luv Story,Action | Comedy | Romance,1
+1157,tt2624852,Gangoobai,Drama | Family,1
+1158,tt2630076,Super Nani,Drama,1
+1159,tt2633598,Rise of the Zombie,Drama | Horror | Thriller,1
+1160,tt2635622,The Attacks of 26/11,Drama,2
+1161,tt2675978,Dedh Ishqiya,Comedy | Drama | Romance,2
+1162,tt2679480,Sulemani Keeda,Comedy | Romance,1
+1163,tt2691010,Mumbai 125 KM 3D,Horror,1
+1164,tt2699840,John Day,Drama,1
+1165,tt2706264,Rangrezz,Action |Drama |Adventure,1
+1166,tt2727028,Total Chaos,Comedy | Drama | Romance,1
+1167,tt2762334,Main Tera Hero,Action | Comedy | Romance,5
+1168,tt2767712,Badlapur Boys,Drama,1
+1169,tt2796318,Mickey Virus,Comedy | Thriller,2
+1170,tt2797242,Bombay Talkies,Drama,2
+1171,tt2798620,Chhota Bheem and the Curse of Damyaan,Animation | Adventure | Fantasy,2
+1172,tt2804026,Aurangzeb,Action | Drama | Thriller,2
+1173,tt2806788,Fukrey,Comedy | Drama | Romance,5
+1174,tt2814372,Gippi,Comedy | Drama,2
+1175,tt2826126,Shree,Sci-Fi,1
+1176,tt2848824,Bajatey Raho,Comedy | Drama | Thriller,2
+1177,tt2855648,Madras Cafe,Action | Drama | History,4
+1178,tt2857500,Saare Jahaan Se Mehnga...,Comedy | Drama,1
+1179,tt2861320,Policegiri,Action | Comedy | Drama,2
+1180,tt2871010,Sonali Cable,Drama,1
+1181,tt2876408,Mr Joe B. Carvalho,Comedy,1
+1182,tt2905838,Bang Bang,Action | Adventure | Comedy,5
+1183,tt2907156,Paranthe Wali Gali,Drama | Romance,1
+1184,tt2912578,Ankur Arora Murder Case,Drama | Thriller,1
+1185,tt2929840,Zindagi 50 50,Drama,1
+1186,tt2941856,Enemmy,Action | Crime | Drama,1
+1187,tt2946506,It's Rocking: Dard-E-Disco,Comedy,1
+1188,tt2951576,One by Two,Comedy | Drama | Romance,1
+1189,tt2976172,Sixteen,Drama | Romance | Thriller,1
+1190,tt2976176,Lakshmi,Drama,1
+1191,tt2978626,Entertainment,Comedy,2
+1192,tt2980794,Highway,Drama | Romance,3
+1193,tt2988272,Shuddh Desi Romance,Comedy | Drama | Romance,6
+1194,tt2998196,Kuku Mathur Ki Jhand Ho Gayi,Comedy | Romance,1
+1195,tt3001638,Mary Kom,Biography | Drama | Sport,5
+1196,tt3005850,Sooper Se Ooper,Comedy,1
+1197,tt3017412,Happy Ending,Comedy | Romance,1
+1198,tt3021244,Chaarfutiya Chhokare,Drama | Thriller,1
+1199,tt3031896,Lakeer ka Fakeer,Crime,1
+1200,tt3036740,Humshakals,Comedy,2
+1201,tt3038772,Kaanchi,Drama | Musical | Romance,1
+1202,tt3044882,Nasha,Drama | Romance | Thriller,2
+1203,tt3045946,Tara: The Journey of Love and Passion,Drama,1
+1204,tt3056632,Manjunath,Drama,1
+1205,tt3059106,Satya 2,Crime,1
+1206,tt3138602,Warning,Adventure | Thriller,1
+1207,tt3142232,Heropanti,Action | Romance,6
+1208,tt3142688,Finding Fanny,Comedy | Drama | Romance,2
+1209,tt3160450,Ooops a Desi,Thriller,1
+1210,tt3169676,Meinu Ek Ladki Chaahiye,Drama,1
+1211,tt3169704,Raqt,Thriller,1
+1212,tt3173910,Hasee Toh Phasee,Comedy | Romance,4
+1213,tt3177332,Horror Story,Horror,2
+1214,tt3211088,Le Gaya Saddam,Comedy,1
+1215,tt3211170,Say Yes to Love,Romance,1
+1216,tt3257168,Shorts,Drama,1
+1217,tt3260588,Bin Phere Free Me Tere,Comedy,1
+1218,tt3290688,Revolver Rani,Action | Comedy | Crime,2
+1219,tt3302962,Shaadi Ke Side Effects,Comedy | Romance,2
+1220,tt3303416,Ya Rab,Drama,1
+1221,tt3309662,Jackpot,Comedy | Thriller,1
+1222,tt3309844,Titoo MBA,Comedy,1
+1223,tt3322420,Queen,Adventure | Comedy | Drama,6
+1224,tt3324810,Chhota Bheem and the Throne of Bali,Animation,2
+1225,tt3334348,Heartless,Drama | Family | Romance,1
+1226,tt3357416,What the Fish,Adventure | Comedy | Drama,1
+1227,tt3359290,Bobby Jasoos,Comedy | Drama | Thriller,2
+1228,tt3362728,Ungli,Comedy | Drama | Thriller,1
+1229,tt3369670,Children of War,Drama | History | War,1
+1230,tt3380264,Kill Dil,Action | Crime | Drama,2
+1231,tt3382148,Yaariyan,Drama | Romance,4
+1232,tt3390572,Haider,Crime | Drama | Romance,4
+1233,tt3398052,Daawat-e-Ishq,Comedy | Drama | Romance,2
+1234,tt3415692,Mahabharat,Animation | Action,1
+1235,tt3426144,Babloo Happy Hai,Comedy | Drama | Romance,1
+1236,tt3449320,Darr @ the Mall,Horror | Thriller,1
+1237,tt3465488,Karle Pyaar Karle,Action | Romance,1
+1238,tt3483596,O Teri,Comedy | Drama,1
+1239,tt3483646,Bewakoofiyaan,Comedy | Drama | Romance,2
+1240,tt3483712,Raja Natwarlal,Drama | Thriller,2
+1241,tt3495000,Mardaani,Action | Drama | Thriller,4
+1242,tt3498050,Mokssh,Drama | Musical,1
+1243,tt3498078,Ebn-e-Batuta,Sci-Fi,1
+1244,tt3501994,Hawaa Hawaai,Drama | Family | Sport,2
+1245,tt3514330,Youngistaan,Drama,1
+1246,tt3524410,Yeh Hai Bakrapur,Comedy | Drama,1
+1247,tt3527144,The Dirty Relation,Thriller,1
+1248,tt3531604,Gang of Ghosts,Comedy | Drama,1
+1249,tt3531852,Bhoothnath Returns,Comedy | Drama | Fantasy,3
+1250,tt3539966,Dishkiyaoon,Action | Thriller,1
+1251,tt3542028,Chal Bhaag,Comedy,1
+1252,tt3554418,Khoobsurat,Comedy | Romance,3
+1253,tt3565354,Karar: The Deal,Thriller,1
+1254,tt3585758,Kahin Hai Mera Pyar,Drama | Musical | Romance,1
+1255,tt3592020,Neighbours,Horror,1
+1256,tt3617048,Angry Young Man,Action,1
+1257,tt3619772,Hate Story 2,Drama | Romance | Thriller,4
+1258,tt3619854,Creature,Horror | Sci-Fi,2
+1259,tt3636776,Samrat & Co.,Mystery,1
+1260,tt3640942,Koyelaanchal,Action | Drama,1
+1261,tt3645014,The Xpose,Thriller,2
+1262,tt3672618,Dekh Tamasha Dekh,Comedy,1
+1263,tt3678938,Humpty Sharma Ki Dulhania,Comedy | Drama | Romance,6
+1264,tt3681414,Purani Jeans,Drama,1
+1265,tt3683702,Fugly,Drama | Thriller,2
+1266,tt3709344,CityLights,Drama | Thriller,2
+1267,tt3716142,Lekar Hum Deewana Dil,Comedy | Romance,1
+1268,tt3720634,3 AM: A Paranormal Experience,Horror | Romance,1
+1269,tt3748000,Bollywood Villa,Thriller,1
+1270,tt3794302,Pizza,Horror | Thriller,1
+1271,tt3814100,M.A.D: Mad About Dance,Drama | Musical,1
+1272,tt3822600,Amit Sahni Ki List,Comedy | Romance,1
+1273,tt3847072,Ekkees Toppon Ki Salaami,Comedy,1
+1274,tt3848888,The Shaukeens,Comedy,2
+1275,tt3877652,Desi Kattey,Action,1
+1276,tt3881136,Life Is Beautiful,Comedy | Romance,1
+1277,tt3893476,Spark,Action,1
+1278,tt4010306,Jigariyaa,Drama,1
+1279,tt4045666,Mumbai Delhi Mumbai,Comedy | Romance,1
+1280,tt4119196,Love U Crazy Girl,Mystery,1
+1281,tt4121522,Shuruaat Ka Interval,N/A,1
+1282,tt4187650,Trip to Bhangarh,Horror,1
+1283,tt4190220,Zed Plus,N/A,1
+1284,tt4219300,Gollu aur Pappu,Comedy,1
+1285,tt4228746,Zid,Thriller,2
